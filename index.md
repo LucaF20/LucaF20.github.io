@@ -9,7 +9,7 @@ Hi! My name is Luca Fontaine.
 
 <!-- You can link to other websites, PDFs in this repo, and other pages in this repo -->
 
-_**[Sentiment Scores relation to 10k Returns](/report/report.md)**_
+_**[Sentiment Scores rel`ation to 10k Returns](/report/report.md)**_
 
 This analysis report uses textual analysis
 
