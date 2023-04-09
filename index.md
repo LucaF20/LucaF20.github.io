@@ -26,20 +26,24 @@ This Project aimed at analyzing the regression analysis of Housing data from 200
 <img src="/report/Regression Output.png?raw=true"/>
 
 
-
 ---
 
 ## Career Objectives
 
-Write what you want. 
-
-Sell yourself!
+I am planning on working in the financial services industry with the addition of consulting practices to broaden my skillset. I hope to ultimately combine my entreprenurial passion with my skillsets in finance and computer science to start my own company in the future. Although not entirely sure on the type of company I intend to start, I know that being an entreprenuer is a growing passion of mine. 
 
 ---
 
 ## Hobbies
-
-Maybe include a little about these, especially if they are the kinds of things that work well in interviews.
+- Extracurriculars:
+  - Investment Mangagement Group, Lehigh University
+    - Actively manage a $150,000 equity portfolio by managing positions and coordinating target industry weight
+  - Lehigh University Committee on Discipline
+    - Lead committee to hear and discuss breaches to the University Conduct of Conduct
+    - Hold hearings throughout the semester and actively played a role in decision making    
+- Tutoring
+  - Develop and implement individualized lesson plans for middle and high school students in a
+variety of subjects including math and science 
 
 ---
 <p style="font-size:11px">Page template forked from <a href="https://github.com/evanca/quick-portfolio">evanca</a></p>
