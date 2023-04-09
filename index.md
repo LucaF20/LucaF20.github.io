@@ -15,6 +15,7 @@ Connect with me on the left side to get to know more about me.
 _**[Sentiment Scores in Relation to 10k Returns](/report/report.md)**_
 
 This project studies the effect of wording sentiment values on stock returns of S&P500 companies during the 2022 year. To achieve this goal, this project has taken all S&P500 companies 10k reports as well as their daily returns for 2022 and sought out to find correlations. Through cleaning the 10k file, performing rigorous analysis based on 10 unique contextual sentiment scorings, this project has been able to create correlations between word usage and stock returns.
+Scatter plot with Positive Sentiments on x-axis and Returns from t-t+2 and Returns from t+3-t+10 days on the y-axis 
 
 <img src="/report/output_21_0.png?raw=true"/>
 
