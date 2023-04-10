@@ -5,7 +5,7 @@ Nice to meet you!
 
 I am a Junior at Lehigh University, in Bethlehem, PA where I am pursuing a Finance Major with Computer Science and Entreprenuership minors. In my past professional experiences, I spent my Junior working as a Wealth Management Advising Intern for Tristate Financial Advisors. I have also spent my last summers working at Re/Max on the Hudson, a Top 3 NJ real estate office in Hoboken NJ, as a Business Analyst and Lead Generator. In my free time, I enjoy being active in the outdoors, djiing, and traveling. 
 
-- Connect with me on the left side to get to know more about me.
+Connect with me on the left side to get to know more about me.
 ---
 
 ## Portfolio
