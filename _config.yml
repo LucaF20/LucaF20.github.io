@@ -8,6 +8,9 @@ description: > # your text below (remove <br> elements if you don't need line br
   <a href="/pdf/RESMUÉ.2023.pdf/" class="btn btn--info">Resume</a>  
   <br>
   <a href="https://github.com/LucaF20">GitHub</a>  
+  <br>
+  <a href="/pdf/sample_presentation.pdf/" class="btn btn--info">Resume</a>  
+
 
   
 theme: jekyll-theme-minimal
