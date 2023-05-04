@@ -26,6 +26,14 @@ This Project aimed at analyzing the regression analysis of Housing data from 200
 
 <img src="/report/Regression Output.png?raw=true"/>
 
+---
+
+_**[Final Project](/report/README.md)**_
+
+The main goal of this project is to explore how different industries are affected by the Russian-Ukrainian armed conflict that started on the 24th of February of 2022. In order to do so, we analyzed how different industries' returns were affected by a number of major events throughout the course of the war. We used a total of 17 major events and saw how cumulative returns for 5 industries, namely metal, energy, semiconductors, food, and transport industries, changed. In order to perform our analysis we used line-plots and computed return differences between the event date, 3 days after the event and 10 days after the event.
+
+<img src="/images/WarImage.png?raw=true"/>
+
 
 ---
 
